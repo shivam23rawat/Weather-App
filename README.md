@@ -11,5 +11,5 @@ Basic HTML,CSS
 # How to Run
 1. Clone repo
 2. cd into the react-weather folder
-3. Replace key in api object with own API key generated from openweathermap
+3. Replace key in api object with own API key generated from openweathermap { existing key has been revoked }
 4. run yarn start
