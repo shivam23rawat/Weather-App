@@ -4,9 +4,9 @@ Deployed @ https://reacweather.netlify.app/
 This react weather app is built to look like a mobile app and works best with 411px x 731px devices (for the background).
 <br>
 # Technology
-Reactjs
-OpenWeather API
-Basic HTML,CSS
+Reactjs <br>
+OpenWeather API <br>
+Basic HTML,CSS <br>
 <br>
 # How to Run
 1. Clone repo
