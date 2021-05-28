@@ -7,7 +7,7 @@ This react weather app is built to look like a mobile app and works best with 41
 Reactjs <br>
 OpenWeather API <br>
 Basic HTML,CSS <br>
-<br>
+
 # How to Run
 1. Clone repo
 2. cd into the react-weather folder
