@@ -1,5 +1,5 @@
 # About
-Deployed @ https://shivamrawat.tech/Weather-App/
+Deployed @ https://reacweather.netlify.app/
 <br>
 This react weather app is built to look like a mobile app and works best with 411px x 731px devices (for the background).
 <br>
